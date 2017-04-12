@@ -44,3 +44,6 @@ comply with, the [Google APIs Terms of Service](https://developers.google.com/te
 
 ## Google+
 Actions on Google Developers Community on Google+ [https://g.co/actionsdev](https://g.co/actionsdev).
+
+[![Analytics](https://ga-beacon.appspot.com/UA-65622529-1/animal-joker/main)](https://github.com/igrigorik/ga-beacon)
+
